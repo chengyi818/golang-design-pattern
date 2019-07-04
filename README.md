@@ -1,4 +1,5 @@
 # Go 语言设计模式
+[研磨设计模式]
 
 [![Build Status](https://travis-ci.org/senghoo/golang-design-pattern.svg?branch=master)](https://travis-ci.org/senghoo/golang-design-pattern)
 
